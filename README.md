@@ -10,6 +10,6 @@ Dieses Modul zeigt den Hinweis auf allen Shopseiten als Warnmeldungen via Messag
 Der Text für die Urlaubsmeldung ist via Admin für deutsche und englische Version definierbar und die Meldung kann auch via Admin aus- und eingeschaltet werden.
 
 Changelog Version 1.1.
-September 2019
-Anpassung für 1.5.6
-HTML kann in der Urlaubsmeldung erlaubt werden
+* September 2019
+* Anpassung für 1.5.6
+* HTML kann in der Urlaubsmeldung erlaubt werden
