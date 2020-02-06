@@ -1,6 +1,10 @@
 # 156-modul-urlaubsmeldung
 Urlaubsmeldung für Zen Cart 1.5.6 deutsch
 
+Hinweis: 
+Freigegebene getestete Versionen für den Einsatz in Livesystemen ausschließlich unter Releases herunterladen:
+https://github.com/zencartpro/156-modul-urlaubsmeldung/releases
+
 Wenn der Shopbetreiber mal Urlaub macht und in dieser Zeit Bestellungen möglich sein sollen, dann muss auf die längeren Lieferzeiten hingewiesen werden. 
 Ein allgemeiner Hinweis auf der Startseite reicht nicht und wird übersehen, ein Ändern aller Lieferzeitangaben bei jedem Artikel ist nicht praktikabel.
 Sinn macht daher ein allgemeinverbindlicher Hinweis auf die längeren Lieferzeiten, siehe Punkt 3 hier:
