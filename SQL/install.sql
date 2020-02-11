@@ -1,5 +1,5 @@
 ##################################################################
-# Urlaubsmeldung 1.1 Install - 2019-09-18 - webchills
+# Urlaubsmeldung 1.2 Install - 2020-02-11 - webchills
 ##################################################################
 
 INSERT INTO configuration_group (configuration_group_title, configuration_group_description, sort_order, visible) VALUES

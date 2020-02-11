@@ -1,5 +1,5 @@
 ########################################################################
-# Urlaubsmeldung 1.1.0 UNINSTALL - 2019-09-18 - webchills
+# Urlaubsmeldung 1.2 UNINSTALL - 2020-02-11 - webchills
 # Nur ausführen, wenn Sie das Modul aus der Datenbank entfernen wollen!
 ########################################################################
 
