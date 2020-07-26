@@ -11,7 +11,7 @@ http://www.it-recht-kanzlei.de/betriebsurlaub-online-shop.html
 Dieses Modul zeigt den Hinweis auf allen Shopseiten als Warnmeldungen via Message Stack an, also dort wo normalerweise Warn-, Fehler oder Erfolgsmeldungen erscheinen.
 Der Text für die Urlaubsmeldung ist via Admin für deutsche und englische Version definierbar und die Meldung kann auch via Admin aus- und eingeschaltet werden.
 
-Changelog Version 1.2..0
+Changelog Version 1.2.0
 Juli 2020
 Anpassung für 1.5.6e
 
